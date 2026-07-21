@@ -24,7 +24,7 @@ for mentoring. Priority: quality over speed.
 
 # Tools
 Python (pandas, numpy, matplotlib, seaborn)
-SQL (SQLite)
+SQL (SQLite) — 4 analytical requestts
 Google Colab
 
 # Files
